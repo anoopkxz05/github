@@ -1,8 +1,8 @@
-.h1{
+h1{
     color: blue;
 }
 
-.h1:hover{
+h1:hover{
     transition: 0.2s ease;
     color: crimson;
 }
